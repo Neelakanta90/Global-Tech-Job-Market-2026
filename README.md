@@ -44,15 +44,15 @@ Business Insights
 
 ### Page 1 — Executive Overview
 
-![Executive Overview](dashboard/overview.png)
+![Executive Overview](overview.png)
 
 ### Page 2 — Location & Salary Analysis
 
-![Location Analysis](dashboard/location_analysis.png)
+![Location Analysis](location_analysis.png)
 
 ### Page 3 — Technology & Skills Analysis
 
-![Technology Analysis](dashboard/technology_analysis.png)
+![Technology Analysis](technology_analysis.png)
 
 ## 🔍 Key Insights
 
