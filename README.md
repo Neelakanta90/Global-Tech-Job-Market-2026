@@ -40,6 +40,20 @@ Power BI Dashboard
 ↓
 Business Insights
 
+## 📊 Power BI Dashboard
+
+### Page 1 — Executive Overview
+
+![Executive Overview](dashboard/overview.png)
+
+### Page 2 — Location & Salary Analysis
+
+![Location Analysis](dashboard/location_analysis.png)
+
+### Page 3 — Technology & Skills Analysis
+
+![Technology Analysis](dashboard/technology_analysis.png)
+
 ## 🔍 Key Insights
 
 - The dataset contains 12,003 technology job postings.
